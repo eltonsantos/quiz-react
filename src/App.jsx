@@ -4,9 +4,7 @@ import { QuizContext } from "./context/quiz";
 import Welcome from "./components/Welcome";
 import Question from "./components/Question";
 import GameOver from "./components/GameOver";
-
 import PickCategory from "./components/PickCategory";
-
 import "./App.css";
 
 function App() {

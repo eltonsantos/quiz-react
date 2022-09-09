@@ -1,9 +1,6 @@
 import { useContext, useState } from "react";
-
 import { QuizContext } from "../context/quiz";
-
 import Option from "./Option";
-
 import "./Question.css";
 
 const Question = () => {
